@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SobreiraPamela
 - 👀 I’m interested in ...Quality Assurance
 - 🌱 I’m currently learning ...Quality Assurance
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...QA
 - 📫 How to reach me ...www.linkedin.com/in/pamela-sobreira-39759647
 
 <!---
